@@ -1,3 +1,4 @@
 [submodule "emData/project_generation_scripts"]
 	path = emData/project_generation_scripts
 	url = https://github.com/cms-L1TK/project_generation_scripts.git
+  branch = CM_chain_VSMEM_rebase
